@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yongjiangcn
 - 👀 I’m interested in vehicle dynamic especially control by wire...
 - 🌱 I’m currently learning how to deploy Github in my System and SW development organization in ZF CVS APAC...
-- 💞️ I’m looking to collaborate on vehicle control system, powertrain, chassis ( braking, steering, air suspension), ADAS AEBS, ACC, LKA, LCC
+- 💞️ I’m looking to collaborate on vehicle control system, powertrain (Predictive Powertrain Control, CC, AMT, chassis ( braking, steering, air suspension), ADAS AEBS, ACC, LKA, LCC
 - 📫 How to reach me: volkerjiang@gmail.com or just come to my office in Shanghai
 
 <!---
